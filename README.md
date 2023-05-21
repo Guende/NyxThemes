@@ -1,5 +1,6 @@
 # NyxThemes
 Nyx's Themes for ulaunch
+Based off of KarmicBacklash's Light & Dark Themes (https://github.com/KarmicBacklash/uLaunchThemes)
 
 ## Dark Theme
 
